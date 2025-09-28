@@ -68,17 +68,14 @@ I specialize in turning **complex ideas into intuitive, user-friendly digital so
 
 ### 📊 GitHub Stats  
 
-<p align="center">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=khaled-103&show_icons=true&theme=radical" alt="Khaled's GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=khaled-103&show_icons=true&theme=radical" alt="Khaled's GitHub stats" height="180"/>
   </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-103&layout=compact&theme=radical" alt="Top Langs"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-103&layout=compact&theme=radical" alt="Top Langs" height="180"/>
   </a>
-</p>
+</div>
 
 ---
 
