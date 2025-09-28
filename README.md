@@ -1,11 +1,14 @@
-## Hi there 👋
+<h2 align="center">Hi there 👋</h2>
 
-# 👨‍💻 Khaled Sheikh Ali  
-**Software Engineer | Full Stack Web Developer**  
+<h1 align="center">👨‍💻 Khaled Sheikh Ali</h1>
+<h3 align="center">Software Engineer | Full Stack Web Developer</h3>
 
-🌍 Based in Gaza, Palestine  
-📧 [20khaled2001@gmail.com](mailto:20khaled2001@gmail.com)  
-🔗 [LinkedIn](https://www.linkedin.com/in/khaled-shaikh-ali-5b9351249) | [GitHub](https://github.com/khaled-103)  
+<p align="center">
+  🌍 Gaza, Palestine · 
+  📧 <a href="mailto:20khaled2001@gmail.com">20khaled2001@gmail.com</a> · 
+  🔗 <a href="https://www.linkedin.com/in/khaled-shaikh-ali-5b9351249">LinkedIn</a> · 
+  💻 <a href="https://github.com/khaled-103">GitHub</a>
+</p>
 
 ---
 
@@ -21,28 +24,34 @@ I specialize in turning **complex ideas into intuitive, user-friendly digital so
 
 ### 🛠️ Tech Stack  
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)  
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
+<p align="center">
+  <!-- Frontend -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+</p>
 
-**Backend:**  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)  
+<p align="center">
+  <!-- Backend -->
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+</p>
 
-**Tools & Deployment:**  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
-![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)  
+<p align="center">
+  <!-- Tools -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+</p>
 
 ---
 
@@ -59,8 +68,18 @@ I specialize in turning **complex ideas into intuitive, user-friendly digital so
 
 ### 📊 GitHub Stats  
 
-[![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaled-103)](https://github.com/anuraghazra/github-readme-stats)  
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=khaled-103&show_icons=true&theme=radical" alt="Khaled's GitHub stats"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khaled-103&layout=compact&theme=radical" alt="Top Langs"/>
+  </a>
+</p>
 
 ---
 
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+<h4 align="center">✨ “Code is like humor. When you have to explain it, it’s bad.” ✨</h4>
